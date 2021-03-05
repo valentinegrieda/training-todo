@@ -1,0 +1,38 @@
+[
+  {
+	  	"id": 101,
+		"thing_todo": "Buy groceries",
+		"date_todo": "2021-02-25",
+		"time_todo": "7:00",
+		"status": "Complete"
+	},
+    {
+		"id": 102,
+		"thing_todo": "Meet Emily at Library",
+		"date_todo": "2021-02-25",
+		"time_todo": "15:00",
+		"status": "not complete"
+	},
+    {
+		"id": 103,
+		"thing_todo": "Lunch with Gabriel",
+		"date_todo": "2021-02-25",
+		"time_todo": "12:00",
+		"status": "not complete"
+	},
+    {
+		"id": 104,
+		"thing_todo": "Brunch with Annie",
+		"date_todo": "2021-02-26",
+		"time_todo": "10:00",
+		"status": "not complete"
+
+	},
+    {
+		"id": 105,
+		"thing_todo": "Visit zoo",
+		"date_todo": "2021-02-27",
+		"time_todo": "11:00",
+		"status": "not complete"
+	}
+]
